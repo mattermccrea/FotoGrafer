@@ -1,4 +1,4 @@
-![Alt Text](https://ibb.co/ZT4Gw2S)<br> 
+![alt text](https://ibb.co/ZT4Gw2S)<br> 
 name           : firmansyah<br>
 Nick name      : Firman<br>
 Date of birth  : 19 februari 2002<br>
